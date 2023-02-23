@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../filmList.ts"],
+  "sourcesContent": ["export var filmList = [\n  {\n    id: 1,\n    name: 'movie A'\n  },\n  {\n    id: 2,\n    name: 'movie B'\n  },\n]"],
+  "mappings": ";;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAO,IAAI,WAAW;AAAA,EACpB;AAAA,IACE,IAAI;AAAA,IACJ,MAAM;AAAA,EACR;AAAA,EACA;AAAA,IACE,IAAI;AAAA,IACJ,MAAM;AAAA,EACR;AACF;",
+  "names": []
+}
